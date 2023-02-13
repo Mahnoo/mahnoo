@@ -1,6 +1,6 @@
 <h1 align="center"> <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Mahnoor Atiq<br>
   </h1>
-<h3 align="center">A Senior Full Stack Developer from Pakistan.</h3>
+<h3 align="center">A Full Stack Developer from Pakistan.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahnoo&label=Profile%20views&color=0e75b6&style=flat" alt="mahnoo" /> </p>
 
